@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=EricPengShuai&show_icons=true&hide_title=true" />  
 
-- :mortar_board:背景：北京邮电大学 | 计算机科学与技术 | 研二在读 
+- :mortar_board:背景：北京邮电大学 | 计算机科学与技术
 - :hammer:技术栈：CPPer，流媒体开发，架构研发
-- :computer:仓库：[基于AI的全景视频播放系统](https://gitee.com/vesper0407/vr_player/tree/star/) | [Pytorch_Learning](https://github.com/EricPengShuai/Pytorch-Learning)
+- :computer:仓库：[全景视频播放系统](https://gitee.com/vesper0407/vr_player/tree/star/) | [Pytorch_Learning](https://github.com/EricPengShuai/Pytorch-Learning)
 - :heart:个人博客：[Github.io](https://ericpengshuai.github.io/) | [CSDN](https://blog.csdn.net/Miracle_ps)
 - :sparkles:兴趣：:soccer: | :badminton: | :muscle:，平平无奇的小镇做题家
 - :weight_lifting_man:长期维护：[CppGuide_Interview](https://github.com/EricPengShuai/Interview)
